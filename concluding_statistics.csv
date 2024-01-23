@@ -1,0 +1,2 @@
+Log File ID,Join Collisions,Data collisions,Lost packets (due to path loss),Transmitted data packets,Transmitted SACK packets,Missed SACK packets,Transmitted join request packets,Transmitted join accept packets,Join Retransmissions,Data Retransmissions,Join request packets dropped by gateway,Average join time,Average energy consumption (Rx),Average energy consumption (Tx),Average energy consumption per node,PRR,Number of nodes failed to connect to the network
+log1,167,0,78,5910,1305,36,207,40,194,114,49,229.192,28.787,30.625,59.412,0.981,0
